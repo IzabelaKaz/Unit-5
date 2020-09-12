@@ -37,7 +37,7 @@ input::placeholder{
     text-align: center;
 }
 
-.input-div {
+.search {
     text-align: center;
 }
 
@@ -47,12 +47,12 @@ input {
 }
 
 @media screen and (min-width: 1024px) {
-    body {
-        max-width: 1350px;
-        margin: auto;
-    }
+body {
+    max-width: 1350px;
+    margin: auto;
+}
 
-    .container a {
+.container a {
     width: 23%;
 }
 }
